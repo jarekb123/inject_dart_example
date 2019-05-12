@@ -40,3 +40,5 @@ Add following snippet:
 ```gitignore
 *.inject.summary
 ```
+### Remove empty generated files
+Run `find . -size 0 |xargs rm --` in project `src/` directory
