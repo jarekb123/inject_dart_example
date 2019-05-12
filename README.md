@@ -4,7 +4,8 @@ This is Flutter example of using inject.dart package.
 
 Package: https://github.com/google/inject.dart
 
-Note: This package is not officialy available in Dart Pub.
+**Note: This package is not officialy available in Dart Pub.**
+**The inject.dart does not support Dagger-like Provider which enable to use dependency cycle somewhere if needed**
 
 ## Getting Started
 
